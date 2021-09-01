@@ -30,4 +30,6 @@ class Main {
    1. Commit and create a Pull Request.
    1. Pull others merged pull requests and resolve conflicts.
    1. Push your resolved PR.
+1. Take a look around, edit stuff, create PR and collaborate.
+1. Search and have fun :)
 
