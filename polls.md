@@ -11,5 +11,5 @@ Rate courses from `1` _(worst)_ to `5` _(best)_.
 ## git course
 
 - Shahin `5`
-- KAVEH `5`
+- Kaveh `5`
 
