@@ -16,7 +16,7 @@ class Main {
 }
 ```
 
-1. Commit and create a Pull Request.
+4. Commit and create a Pull Request.
 1. Review others programs in Pull Request section. Comment and collaborate.
 1. Create another branch with pattern `poll-{your-name}`
 1. Edit `polls.md`:
