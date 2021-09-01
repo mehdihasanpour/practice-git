@@ -15,16 +15,16 @@ class Main {
 }
 ```
 
-2. Commit and create a Pull Request.
-2. Review others programs in Pull Request section. Comment and collaborate.
-2. Create another branch with pattern `poll-{your-name}`
-2. Edit `polls.md`:
+3. Commit and create a Pull Request.
+3. Review others programs in Pull Request section. Comment and collaborate.
+3. Create another branch with pattern `poll-{your-name}`
+3. Edit `polls.md`:
    1. Add your name under subheadings and rate the course.
    1. Commit and create a Pull Request.
    1. Pull others merged pull requests and resolve conflicts.
    1. Push your resolved PR.
-2. Create another branch with pattern `stuff-{your-name}`
-2. Edit `stuff.md`:
+3. Create another branch with pattern `stuff-{your-name}`
+3. Edit `stuff.md`:
    1. Add your name under `interns` subheading.
    1. Commit and create a Pull Request.
    1. Pull others merged pull requests and resolve conflicts.
