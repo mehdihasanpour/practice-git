@@ -1,7 +1,7 @@
 # Todo
 
 - [x] php/python course
-- [-] git course
+- [x] git course
 - [ ] code dojo
 - [ ] OOP course
 - [ ] linux course
