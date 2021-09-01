@@ -1,0 +1,6 @@
+<?php 
+$name="helloworld";
+
+echo $name;
+
+?>
