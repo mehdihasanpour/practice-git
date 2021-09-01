@@ -4,7 +4,7 @@
 - [x] git course
 - [ ] code dojo
 - [ ] OOP course
-- [ ] linux course
-- [ ] laravel/django course
+- [X] linux course
+- [X] laravel/django course
 
 
